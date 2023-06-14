@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3cd5683.css",
-    "main.js": "/static/js/main.7ce86a68.js",
-    "static/media/OhebTvWUlzsiooY.png": "/static/media/OhebTvWUlzsiooY.c2d764eb030c9ec73317.png",
-    "index.html": "/index.html",
-    "static/media/eth.svg": "/static/media/eth.df265e367364f285053a1285ad8d418d.svg",
-    "main.d3cd5683.css.map": "/static/css/main.d3cd5683.css.map",
-    "main.7ce86a68.js.map": "/static/js/main.7ce86a68.js.map"
+    "main.css": "/credit_le_dense_frontend/static/css/main.d3cd5683.css",
+    "main.js": "/credit_le_dense_frontend/static/js/main.14837fce.js",
+    "static/media/OhebTvWUlzsiooY.png": "/credit_le_dense_frontend/static/media/OhebTvWUlzsiooY.c2d764eb030c9ec73317.png",
+    "index.html": "/credit_le_dense_frontend/index.html",
+    "static/media/eth.svg": "/credit_le_dense_frontend/static/media/eth.df265e367364f285053a1285ad8d418d.svg",
+    "main.d3cd5683.css.map": "/credit_le_dense_frontend/static/css/main.d3cd5683.css.map",
+    "main.14837fce.js.map": "/credit_le_dense_frontend/static/js/main.14837fce.js.map"
   },
   "entrypoints": [
     "static/css/main.d3cd5683.css",
-    "static/js/main.7ce86a68.js"
+    "static/js/main.14837fce.js"
   ]
 }
